@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+
+.btn-submit{
+    padding:2%;
+    background-color: #336699;
+    border:none;
+    box-shadow: 0px 2px 2px 2px lightgray;
+    border-radius: 15px;
+    font-size: 18pt;
+    font-weight: 800;
+    color:#fff;
+    cursor: pointer;
+}
